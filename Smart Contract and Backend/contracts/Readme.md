@@ -27,6 +27,7 @@ Tokens Included: SANDBOX(SAND), DECENTRALAND(MANA), AAVEGOTCHI(GHST)
 - Log into Gnosis and create a Vault.
 - Add an app called Zodiac to the vault.
 - Import Vault contract on remix and deploy it.
+- Verify the contract on polygon.
 - Open the Zodiac app and add a custom module. Paste the vault contract address.
 
 ## Smart Contract Deployment:
@@ -39,6 +40,7 @@ Tokens Included: SANDBOX(SAND), DECENTRALAND(MANA), AAVEGOTCHI(GHST)
 ## Deploy a Fund:
 - Create an array of the tokens. Eg: [address1,address2]
 - Create an array of weights. The weights are in bips thus ***20%*** will be denoted with ***2000***. Eg: [5000,5000]
+- Make the IndexManager an owner of the vault by calling **addOwner()** function in the MyModule.sol.
 
 ## Usage: 
 - Call the **InvestInFund()** and **Withdrawal()** functions. Before calling the **Withdrawal()** function we need to give permission to the contracts to access the fund token.
