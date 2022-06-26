@@ -8,6 +8,9 @@ Demo Link: https://lively-truth-3301.on.fleek.co/
 ## Sponsors bounties 
 *Polygon* - Blockchain network for smart contract deployment.
 
+*optimism* - Blockchain network for smart contract deployment. https://optimistic.etherscan.io/tx/0x4e198dc837807424aa332d480536c0a68373d1980651c7cc6f8d1da266cd3246
+
+
 *Gnosis Safe* - MultiSig wallet
 
 *IPFS* - Deployed the UI (react app) on fleek 
