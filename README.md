@@ -6,13 +6,21 @@ Intro [TBD]
 
 ## Sponsors bounties 
 *Polygon* - Blockchain network for smart contract deployment.
+
 *IPFS* - Deployed the UI (react app) on fleek 
+
 *1inch* :  API for converting any token to Matic token via 1inch API on our dashboard
+
 *Uniswap* : Liquidity provider for portfolio token swap from Matic token 
+
 *Covalent*  - Data provider to fetch token holder and other data points
+
 *ChainLink*  - Oracle solution provider via API
+
 *Pocket*  - RPC provider
+
 *Tenderly*  - Txn monitoring dashboard provider
+
 *Wallet Connect*  - Wallet Provider
 
 
