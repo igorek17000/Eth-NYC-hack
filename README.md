@@ -8,6 +8,8 @@ Demo Link: https://lively-truth-3301.on.fleek.co/
 ## Sponsors bounties 
 *Polygon* - Blockchain network for smart contract deployment.
 
+*Gnosis Safe* - MultiSig wallet
+
 *IPFS* - Deployed the UI (react app) on fleek 
 
 *1inch* :  API for converting any token to Matic token via 1inch API on our dashboard
@@ -23,6 +25,8 @@ Demo Link: https://lively-truth-3301.on.fleek.co/
 *Tenderly*  - Txn monitoring dashboard provider
 
 *Wallet Connect*  - Wallet Provider
+
+*Gnosis Chain* - Blockchain network for cotract deployment
 
 
 ## Steps to run
