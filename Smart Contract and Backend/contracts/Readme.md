@@ -44,5 +44,5 @@ Tokens Included: SANDBOX(SAND), DECENTRALAND(MANA), AAVEGOTCHI(GHST)
 
 ## Usage: 
 - Call the **InvestInFund()** and **Withdrawal()** functions. Before calling the **Withdrawal()** function we need to give permission to the contracts to access the fund token.
-
+- Change the gas fees to a higher number to prevent transactions from failing due to *out of gas error*.
 
