@@ -1,6 +1,5 @@
 # Velvet capital
-Intro [TBD]
-
+DeFi protocol that helps people & institutions create tokenized index funds, portfolios & other financial products with additional yield.
 
 
 
