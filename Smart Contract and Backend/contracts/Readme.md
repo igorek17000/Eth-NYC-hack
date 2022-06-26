@@ -1,7 +1,7 @@
 
 # Smart Contract
 
-### Addresses:
+## Addresses:
 
 **TOP 5 DeFi Fund:** 
 ```
@@ -45,4 +45,8 @@ Tokens Included: SANDBOX(SAND), DECENTRALAND(MANA), AAVEGOTCHI(GHST)
 ## Usage: 
 - Call the **InvestInFund()** and **Withdrawal()** functions. Before calling the **Withdrawal()** function we need to give permission to the contracts to access the fund token.
 - Change the gas fees to a higher number to prevent transactions from failing due to *out of gas error*.
+
+## Investment Demo:
+- Investment Tx Hash(Tenderly): https://dashboard.tenderly.co/tx/polygon/0x4466dcde99fdef76b76c7b55fe27d3641207f47e4a7c73c1ea611f19e6606330
+- Withdrawal Tx Hash(Tenderly): https://dashboard.tenderly.co/tx/polygon/0x7740b7bac663ef3583b22c82b7bac3c125a523ae6e0a18740661db0ca6217984
 
